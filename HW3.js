@@ -1,10 +1,5 @@
 // JavaScript Document
 
-//Temp Code
-
-
-//Temp Code
-
 function storyFunction(choice) {
     var answer1 = document.getElementById("choice1").innerHTML;
     var answer2 = document.getElementById("choice2").innerHTML;
